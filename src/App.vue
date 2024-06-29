@@ -7,6 +7,7 @@
   import Exemplo04 from './componentes/Exemplo04HTML.vue';
   import Exemplo05 from './componentes/Exemplo05Model.vue';
   import Exemplo06 from './componentes/Exemplo06Classe.vue';
+  import Exemplo07 from './componentes/Exemplo07Clique.vue';
  </script>
 
 <!-- HTML -->
@@ -17,4 +18,5 @@
     <Exemplo04/>
     <Exemplo05/>
     <Exemplo06/>
+    <Exemplo07/>
  </template>
