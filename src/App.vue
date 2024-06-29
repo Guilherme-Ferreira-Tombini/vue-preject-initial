@@ -8,6 +8,7 @@
   import Exemplo05 from './componentes/Exemplo05Model.vue';
   import Exemplo06 from './componentes/Exemplo06Classe.vue';
   import Exemplo07 from './componentes/Exemplo07Clique.vue';
+  import Exemplo08 from './componentes/Exemplo08Teclado.vue';
  </script>
 
 <!-- HTML -->
@@ -19,4 +20,5 @@
     <Exemplo05/>
     <Exemplo06/>
     <Exemplo07/>
+    <Exemplo08/>
  </template>
