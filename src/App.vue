@@ -10,6 +10,7 @@
   import Exemplo07 from './componentes/Exemplo07Clique.vue';
   import Exemplo08 from './componentes/Exemplo08Teclado.vue';
   import Exemplo09 from './componentes/Exemplo09Enviar.vue';
+  import Exemplo10 from './componentes/Exemplo10Lifecycle.vue'
  </script>
 
 <!-- HTML -->
